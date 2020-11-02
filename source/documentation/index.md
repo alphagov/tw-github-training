@@ -10,7 +10,7 @@ Test sentence for GitHub walk-through:
 
 Food | Kind | Tasty?
 --- | --- | ---
-Bananas | Fruit | Yes
+Bananas | Fruit | Mmm, not sure
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
 
