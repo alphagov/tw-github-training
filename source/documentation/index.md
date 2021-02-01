@@ -10,7 +10,7 @@ This means you can use things like tables:
 
 Food | Kind | Tasty?
 --- | --- | ---
-Bananas | Fruit | Yes
+Bananas | Fruit | No
 Aubergines | Vegetable | No
 Oranges | Fruit | Yes
 
