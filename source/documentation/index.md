@@ -10,9 +10,9 @@ This means you can use things like tables:
 
 Food | Kind | Tasty?
 --- | --- | ---
-Bananas | Fruit | Yes
+Bananas | Fruit | No
 Aubergines | Vegetable | No
-Apricots | Fruit | Yes
+Oranges | Fruit | Yes
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 
