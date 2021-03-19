@@ -1,6 +1,6 @@
 # Oh, hi ...
 
-## Edit Me!
+## Oh, hi yourself!
 
 Open `source/documentation/index.md` in your favourite text editor and start editing!
 
