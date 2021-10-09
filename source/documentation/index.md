@@ -6,11 +6,11 @@ Open `source/documentation/index.md` in your favourite text editor and start edi
 
 You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
 
-This means you can use things like tables:
+Test sentence for GitHub walk-through:
 
 Food | Kind | Tasty?
 --- | --- | ---
-Bananas | Fruit | Yes
+Bananas | Fruit | Mmm, not sure
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
 
