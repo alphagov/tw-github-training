@@ -1,18 +1,16 @@
 # Hello, World!
 
-## Edit Me!
+This is a test. This is a test. A test is what this is. This is a test.
 
-Open `source/documentation/index.md` in your favourite text editor and start editing!
+## CredentialSubjectClass
+| Class                   | Mixins                  |  Class URI            | Slots                 |
+| ----------------------- | ----------------------- |  -------------------- | --------------------- |
+| PersonClass             | PersonIdentityClass     |  schema:Person        | address<br>passport<br>drivingPermit<br>residencePermit 
+| PersonIdentityClass     |                         |  name<br>birthDate   |
+| BirthDateClass          | ValidityClass           |                       | value (range: date)   |
+| AddressClass            |                         |  address             |
 
-You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
 
-This means you can use things like tables:
-
-Food | Kind | Tasty?
---- | --- | ---
-Bananas | Fruit | Yes
-Aubergines | Vegetable | No
-Apricots | Fruit | Yes
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 
