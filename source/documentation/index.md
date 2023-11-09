@@ -13,6 +13,8 @@ Food | Kind | Tasty?
 Bananas | Fruit | Yes
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
+Sweetcorn | Vegetable | Yes
+
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 
