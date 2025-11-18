@@ -13,6 +13,9 @@ Food | Kind | Tasty?
 Bananas | Fruit | Yes
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
+Apples | Fruit | YES YES YES
+
+TESTING TESTING TESTIGN
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 
