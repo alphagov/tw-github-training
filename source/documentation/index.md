@@ -14,6 +14,8 @@ Bananas | Fruit | Yes
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
 Apples | Fruit | YES YES YES
+PEARS | Fruit | YES
+Mango | Fruit | YES YES YES YES
 
 TESTING TESTING TESTIGN
 
